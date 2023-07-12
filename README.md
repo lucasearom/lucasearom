@@ -1,4 +1,8 @@
-### 👋 It's me, hi! Eu sou o Lucas Moraes
+<div align="center">
+  <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" width="100" title="Github" />
+</div>
+
+<h2 align="center">👋 It's me, hi! Eu sou o Lucas Moraes</h2>
 
 Olá, me chamo Lucas Moraes! Atualmente, sou estudante de Desenvolvimento de Sistemas, cursando o 2º módulo de 3. Estou ansioso e animado para aprender ao máximo o que a área de tecnologia possa proporcionar.
 
