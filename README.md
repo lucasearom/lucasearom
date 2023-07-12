@@ -36,3 +36,10 @@ Olá, me chamo Lucas Moraes! Atualmente, sou estudante de Desenvolvimento de Sis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="35" title="Swift"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="35" title="Tailwind CSS"/>
 </div>
+
+</br>
+
+<div align="center">
+</br>
+  <footer>Feito com 🧡 por Lucas Moraes</footer>
+</div>
